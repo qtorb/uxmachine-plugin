@@ -1,0 +1,10 @@
+{
+  "name": "uxmachine",
+  "version": "0.1.0",
+  "description": "Measure a web page in a real browser with UXMachine and get verifiable observations, with their evidence and limits.",
+  "author": {
+    "name": "UXMachine"
+  },
+  "homepage": "https://uxmachine.app/agentes",
+  "license": "MIT"
+}

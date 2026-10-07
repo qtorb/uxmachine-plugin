@@ -1,17 +1,14 @@
 {
   "name": "uxmachine",
-  "description": "UXMachine for coding agents: measure your site in a real browser and get verifiable observations.",
   "owner": {
     "name": "UXMachine",
-    "email": "albert@uxmachine.app",
     "url": "https://uxmachine.app"
   },
   "plugins": [
     {
       "name": "uxmachine",
-      "source": "./",
-      "version": "0.1.0",
-      "description": "Measure your site in a real browser and get verifiable observations, with evidence and limits."
+      "source": "./plugins/uxmachine",
+      "description": "Measure a web page in a real browser with UXMachine and get verifiable observations, with their evidence and limits."
     }
   ]
 }
