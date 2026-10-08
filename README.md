@@ -12,6 +12,13 @@ We do not fill in forms, we do not enter password-protected areas and we do not 
 
 ## Install
 
+From your terminal:
+
+```
+claude plugin marketplace add qtorb/uxmachine-plugin
+claude plugin install uxmachine@uxmachine
+```
+
 Step-by-step guide for Claude Code: https://uxmachine.app/en/agents/claude-code
 
 The first time you use it, a UXMachine window opens so you can authorize access with your account. If you do not have one, you can create it there. Each measurement uses 1 credit from your account; measurements that cannot be made use none.

@@ -4,6 +4,7 @@
     "name": "UXMachine",
     "url": "https://uxmachine.app"
   },
+  "description": "Measure a web page in a real browser with UXMachine and get verifiable observations, with their evidence and limits.",
   "plugins": [
     {
       "name": "uxmachine",
