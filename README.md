@@ -1,6 +1,6 @@
 # UXMachine plugin
 
-Measure a web page in a real browser and get verifiable observations, with their evidence and limits.
+UXMachine is a website checker for AI coding agents. It measures a web page in a real browser and returns verifiable observations, each with its evidence and its limits.
 
 This repository holds only the plugin: the skill and the connector configuration. UXMachine itself is a hosted service at https://uxmachine.app.
 
